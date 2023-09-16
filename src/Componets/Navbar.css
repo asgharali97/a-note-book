@@ -1,0 +1,46 @@
+#nav{
+    font-family: 'Black Ops One', cursive;
+    font-size: 1.5rem;
+}
+.homeHead{
+    font-family: 'Bitter', serif;
+    margin-top: 10vh;
+}
+.card{
+    margin-top: 5vh;
+}
+#icon{
+    margin-top: 3vh;
+}
+#login{
+    background-color: #717171;
+    transition:1s 0s all ease-in ;
+}
+#login:hover{
+    background-color: #ced4da;
+    transition:1s 0s all ease-out ;
+}
+#signup{    
+    background-color: #717171;
+    transition:1s 0s all ease-in ;
+    
+}
+#signup:hover{
+    background-color: #ced4da;
+    transition:1s 0s all ease-out ;
+}
+#logout{
+    background-color: #717171;
+    transition:1s 0s all ease-in ;
+}
+#logout:hover{
+    background-color: #ced4da;
+    transition:1s 0s all ease-out ;
+}
+.btn{
+    transition:1s 0s all ease-in ;
+}
+.btn:hover{
+    transition:1s 0s all ease-out ;
+    background-color: #ced4da;
+}
